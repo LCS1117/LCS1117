@@ -1,4 +1,4 @@
-#### en
+#### *en*
 
 ------
 
@@ -15,7 +15,7 @@
 
 #### Nitronx (nitronx.com) -- My blog site (Now working on...)
 
-#### zh-TW
+#### *zh-TW*
 
 ------
 
