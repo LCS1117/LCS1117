@@ -1,3 +1,5 @@
+#### en
+
 # I'm Stéphane Liu
 
 ## About Me
@@ -10,6 +12,8 @@
 ## Projects
 
 #### Nitronx (nitronx.com) -- My blog site (Now working on...)
+
+#### zh-TW
 
 # 我是劉呈碩
 
