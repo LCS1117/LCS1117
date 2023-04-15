@@ -13,7 +13,7 @@
 
 ## Projects
 
-#### Nitronx (nitronx.com) -- My blog site (Now working on...)
+#### Personal Website (stephaneliu.com) -- My blog site (Now working on...)
 
 #### *zh-TW*
 
@@ -30,5 +30,5 @@
 
 ## 專案
 
-#### Nitronx (nitronx.com) -- 我的部落格（製作中）
+#### 個人網站 (stephaneliu.com) -- 我的部落格（製作中）
 
