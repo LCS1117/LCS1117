@@ -14,6 +14,7 @@
 ## Projects
 
 #### Personal Website (stephaneliu.com) -- My blog site (Now working on...)
+#### ~~Project Nitronx (nitronx.com)~~ -- (Suspended)
 
 #### *zh-TW*
 
@@ -31,4 +32,5 @@
 ## 專案
 
 #### 個人網站 (stephaneliu.com) -- 我的部落格（製作中）
+#### ~~Nitronx計畫 (nitronx.com)~~ -- （停止）
 
