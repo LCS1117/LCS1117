@@ -6,7 +6,7 @@
 
 ## About Me
 
-#### 🐰I'm a web from Taiwan, like to make cool things and projects!
+#### 🐰I'm a web developer from Taiwan, like to make cool things and projects!
 #### Ⓜ️My email: **liuchengshuo1117@gmail.com**
 #### 🤔Any Question, just post an issue, thanks!
 #### ⭐Give me a star if you like my projects!
